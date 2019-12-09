@@ -14,4 +14,4 @@ Week 3: Build outside box/smily face componant
 Week 4: Present 
 
 Challenges:
-I had lots of trouble getting the code right. I had to rewrite it several times and I realized I was often writing too much/writing things that were unnesacary. The arduino was became short circuited and it took me a 
+I had lots of trouble getting the code right. I had to rewrite it several times and I realized I was often writing too much/writing things that were unnesacary. The arduino was became short circuited and it took me a while to firgure out 
