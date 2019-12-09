@@ -14,4 +14,19 @@ Week 3: Build outside box/smily face componant
 Week 4: Present 
 
 Challenges:
-I had lots of trouble getting the code right. I had to rewrite it several times and I realized I was often writing too much/writing things that were unnesacary. The arduino was became short circuited and it took me a while to firgure out 
+I had lots of trouble getting the code right. I had to rewrite it several times and I realized I was often writing too much/writing things that were unnesacary. The arduino was became short circuited and it took me a while to figure out that it was and why it was (too many wires).
+
+Completed Work:
+
+Code: 
+
+Images/Videos: 
+Seee other files
+
+References/Links:
+
+https://www.arduino.cc/en/reference/servo
+
+https://forum.arduino.cc/index.php?topic=236081.0
+
+https://www.instructables.com/id/Control-Servo-with-Light/
